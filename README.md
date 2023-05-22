@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <img src="url_of_logo_image" alt="Currency Converter Logo" style="width: 100%;">
+  <img src="https://raw.githubusercontent.com/santraez/latam-exchange/main/public/assets/images/title.png" alt="Currency Converter Logo" style="width: 100%;">
 </div>
 
 The Currency Converter is a web application that helps you convert currencies from different countries in Latin America. It is an easily integrable component in any web project, fully responsive and minimalist, developed using ReactJS.
@@ -23,15 +23,15 @@ Here are some screenshots that give you an idea of how the Currency Converter in
 
 1. **Home Page:** This screenshot showcases the home page of the Currency Converter.
 
-   ![Home Page](url_of_image_1)
+   ![Home Page](https://raw.githubusercontent.com/santraez/latam-exchange/main/public/assets/images/home.png)
 
 2. **Currency Conversion:** This screenshot displays the interface for performing currency conversion.
 
-   ![Currency Conversion](url_of_image_2)
+   ![Currency Conversion](https://raw.githubusercontent.com/santraez/latam-exchange/main/public/assets/images/converter.png)
 
 3. **Country List:** This screenshot shows the list of countries and their respective currencies.
 
-   ![Country List](url_of_image_3)
+   ![Country List](https://raw.githubusercontent.com/santraez/latam-exchange/main/public/assets/images/list.png)
 
 ## Technologies Used
 
@@ -61,5 +61,5 @@ If you wish to contribute to the Currency Converter, you're more than welcome! F
 
 ## License
 
-This project is licensed under the MIT License. For more information, please refer to the [LICENSE](url_of_LICENSE_file) file.
+This project is licensed under the MIT License. For more information, please refer to the [LICENSE](https://github.com/santraez/latam-exchange/blob/main/LICENSE) file.
 
