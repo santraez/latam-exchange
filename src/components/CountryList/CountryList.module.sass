@@ -1,0 +1,74 @@
+.container
+  width: 320px
+  height: 50px
+  display: flex
+  flex-direction: row
+  justify-content: space-between
+  align-items: center
+  border: 1px solid var(--c-100)
+  border-radius: 7px
+  padding: 15px
+  @media (max-width: 500px)
+    width: 300px
+  .content
+    display: flex
+    flex-direction: row
+    align-items: center
+    .text
+      font-size: 15px
+      user-select: none
+      color: var(--c-100)
+    .flags
+      width: auto
+      height: 15px
+      margin-right: 10px
+  .icons
+    font-size: 18px
+    color: var(--c-100)
+    cursor: pointer
+.list
+  width: 320px
+  height: 95%
+  display: flex
+  flex-direction: column
+  justify-content: flex-start
+  align-items: flex-start
+  border: 1px solid var(--c-a)
+  border-radius: 7px
+  .header
+    width: 100%
+    padding: 15px 15px 20px 15px
+    display: flex
+    flex-direction: row
+    justify-content: space-between
+    align-items: center
+    .text
+      font-size: 15px
+      user-select: none
+      color: var(--c-a)
+    .icons
+      font-size: 18px
+      color: var(--c-a)
+      cursor: pointer
+  .countries
+    width: 100%
+    display: flex
+    flex-direction: column
+    justify-content: space-between
+    align-items: flex-start
+    overflow-y: scroll
+    margin-bottom: 15px
+    .content
+      display: flex
+      flex-direction: row
+      align-items: center
+      padding: 0px 15px 20px 15px
+      cursor: pointer
+    .text
+      font-size: 15px
+      user-select: none
+      color: var(--c-100)
+    .flags
+      width: auto
+      height: 15px
+      margin-right: 10px
